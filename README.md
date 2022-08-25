@@ -47,7 +47,7 @@ Stack and Steps Followed.
 4.  Configuring Docker with api, nginx and db.
 5.  Creating Laravel proyect.
 6.  Making Models and it's relevants files such as controllers, migrations, etc.
-7.  Configuring database structure.
+7.  Configuring database structure (migrations, keys, relations, etc.).
 8.  Configuring Model connections.
 9.  Running Seeders with `.py` generated files.
 10. Writing ZipCode controller including error hanling.

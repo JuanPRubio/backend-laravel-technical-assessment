@@ -2,15 +2,7 @@
 [technical assessment]: https://jobs.backbonesystems.io/challenge-fullstack.pdf
 [Zip Code DB]: https://www.correosdemexico.gob.mx/SSLServicios/ConsultaCP/CodigoPostal_Exportar.aspx
 
-<p align="center">
-    <a href="https://www.backbonesystems.io/" target="_blank">
-        <img src="https://www.backbonesystems.io/png/logo.png" width="400" alt="BackBone Logo">
-    </a>
-</p>
-
-</br>
-
-<h3 align="center"><em><strong>Backend Developer Laravel - Technical Assessment</strong></em></h3>
+<h3 align="center"><em><strong>Backend Developer Laravel - Technical Assessment Example</strong></em></h3>
 
 # About
 

@@ -1,4 +1,3 @@
-[LIVE DEMO]: https://xhash-api.herokuapp.com/api/zip-codes/85200
 [technical assessment]: https://jobs.backbonesystems.io/challenge-fullstack.pdf
 [Zip Code DB]: https://www.correosdemexico.gob.mx/SSLServicios/ConsultaCP/CodigoPostal_Exportar.aspx
 
@@ -7,8 +6,6 @@
 # About
 
 This is a [technical assessment] developed in Laravel framework. It's an API that retrieves Mexican Zip Codes information.
-
-#### Here you can find a **[LIVE DEMO]**
 
 # Procedure
 
